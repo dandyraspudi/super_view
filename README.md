@@ -1,2 +1,2 @@
 # super_view
-frontend report app (react js)
+frontend report app (react native/android{kotlin})
